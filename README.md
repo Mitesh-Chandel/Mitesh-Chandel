@@ -47,7 +47,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🛒 **Vendor Go** | A dynamic web-based marketplace featuring a custom vendor dashboard, product management, and order tracking. | `Node.js` `Express` `EJS` |
-| 💬 **EchoDesk** | A powerful real-time communication platform or helpdesk solution built for seamless data management and performance. | `Python` `Django` `Postgres` |
+| 📣 **EchoDesk** |An automated complaint and review management system designed to track user feedback, streamline issue resolution, and boost customer satisfaction. | `Python` `Django` `Postgres` |
 
 ---
 

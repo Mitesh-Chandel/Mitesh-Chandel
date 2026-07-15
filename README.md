@@ -47,7 +47,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🛒 **Vendor Go** | A dynamic web-based marketplace featuring a custom vendor dashboard, product management, and order tracking. | `Node.js` `Express` `EJS` |
-| 🌤️ **Weather Dashboard** | An application integrating Open-Meteo Geocoding and Forecast APIs for coordinate-based temperature data. | `JavaScript` `APIs` `EJS` |
+| 💬 **EchoDesk** | A powerful real-time communication platform or helpdesk solution built for seamless data management and performance. | `Python` `Django` `Postgres` |
 
 ---
 

@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Waving Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mitesh%20Chandel&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=250&section=header&text=Mitesh%20Chandel&fontSize=80&animation=fadeIn&fontAlignY=35" alt="Header" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
@@ -42,12 +42,38 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <!-- Dynamic GitHub Trophies Showcase -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=Mitesh-Chandel&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" width="100%" />
+  <br><br> -->
+
+  <!-- Core Performance Cards -->
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.shion.dev/api?username=Mitesh-Chandel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="95%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats-three.vercel.app/?user=Mitesh-Chandel&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="95%" />
+      </td>
+    </tr>
+  </table>
+  <br>
+
+  <!-- Language Proportions -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mitesh-Chandel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="65%" />
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🛒 **Vendor Go** | A dynamic web-based marketplace featuring a custom vendor dashboard, product management, and order tracking. | `Node.js` `Express` `EJS` |
-| 📣 **EchoDesk** |An automated complaint and review management system designed to track user feedback, streamline issue resolution, and boost customer satisfaction. | `Python` `Django` `Postgres` |
+| 📣 **EchoDesk** | An automated complaint and review management system designed to track user feedback, streamline issue resolution, and boost customer satisfaction. | `Python` `Django` `Postgres` |
 
 ---
 
@@ -75,17 +101,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <!-- Changed theme to 'tokyonight' for a cooler, darker look -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Mitesh-Chandel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Mitesh-Chandel&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mitesh-Chandel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%" />
-</div>
-
----
 <div align="center">
   <i>Proudly created with passion 💻 Catch you in the commits!</i>
 </div>

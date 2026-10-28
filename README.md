@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
   <!-- Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,10,0&height=280&section=header&text=Mitesh%20Chandel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20to%20Opportunities" alt="Header" width="100%" />
@@ -93,10 +93,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-
 | 🤖 **[ASTRA](https://github.com/Mitesh-Chandel/ASTRA)** | Offline AI-powered Android assistant featuring speech recognition and local LLM inference for private, on-device interactions | `Java` `Android` `XML` `C++` `JNI` `GGUF` |
-
-| 🛎️ **[EchoDesk](https://github.com/Mitesh-Chandel/Echodesk)** | Complaint and review management system with role-based dashboards, real-time tracking and analytics | `Python` `Django` `PostgreSQL` `JavaScript` |
+| 🛎️ **[EchoDesk](https://github.com/Mitesh-Chandel/Echodesk)** | Complaint management system with role-based dashboards, complaint tracking and attachments | `Python` `Django` `PostgreSQL` `JavaScript` |
 | 🏪 **[Vendor Go](https://github.com/Mitesh-Chandel/vendor-go)** | Full-stack marketplace with vendor dashboard, product management and order tracking | `Node.js` `Express` `EJS` `PostgreSQL` |
 | 📝 **[Quiz Tracker](https://github.com/Mitesh-Chandel/quiz-tracker)** | Quiz app that imports questions from CSV/Excel, with multiple quiz modes and progress tracking | `JavaScript` `HTML` `CSS` |
 | ✅ **[DayMark](https://github.com/Mitesh-Chandel/daymark)** | Daily task list to plan, track and complete tasks every day | `JavaScript` `HTML` `CSS` |
@@ -127,68 +125,4 @@
 
 ## 📈 Recent Activity
 
-- 🧩 Solving problems on LeetCode and HackerRank
-- 🎤 Preparing for interviews
-
----
-
-## 🎓 Skills Breakdown
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💪 Strengths</h3>
-      <ul align="left">
-        <li>✅ Full-stack web development (Node.js and Django)</li>
-        <li>✅ Database design and optimization</li>
-        <li>✅ Clean, maintainable code</li>
-        <li>✅ Problem solving and logical thinking</li>
-        <li>✅ Git and version control workflow</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 Growing</h3>
-      <ul align="left">
-        <li>🌱 System design and architecture</li>
-        <li>🌱 Advanced DSA (medium to hard problems)</li>
-        <li>🌱 API design and documentation</li>
-        <li>🌱 Docker and containerization</li>
-        <li>🌱 Interview communication skills</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-  <p>I'm always happy to discuss tech, collaborate on projects, or just chat about code. Feel free to reach out!</p>
-
-  <a href="https://www.linkedin.com/in/miteshchandel">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="mailto:chandelmitesh777@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Mitesh-Chandel">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-  <br><br>
-
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-brightgreen?style=flat" alt="Open to Collaboration" />
-  <img src="https://img.shields.io/badge/Open%20to%20Freelance-blue?style=flat" alt="Open to Freelance" />
-
-</div>
-
----
-
-<div align="center">
-  <i>💡 "The best way to predict the future is to invent it." — Alan Kay</i>
-  <br><br>
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat" alt="Made with love" />
-  <img src="https://img.shields.io/badge/Updated-Oct%202026-00D4FF?style=flat" alt="Updated Oct 2026" />
-</div>
+- 🧩 Solving problems on LeetCode and

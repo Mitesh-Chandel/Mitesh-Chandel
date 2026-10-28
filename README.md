@@ -93,6 +93,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+
+| 🤖 **[ASTRA](https://github.com/Mitesh-Chandel/ASTRA)** | Offline AI-powered Android assistant featuring speech recognition and local LLM inference for private, on-device interactions | `Java` `Android` `XML` `C++` `JNI` `GGUF` |
+
 | 🛎️ **[EchoDesk](https://github.com/Mitesh-Chandel/Echodesk)** | Complaint and review management system with role-based dashboards, real-time tracking and analytics | `Python` `Django` `PostgreSQL` `JavaScript` |
 | 🏪 **[Vendor Go](https://github.com/Mitesh-Chandel/vendor-go)** | Full-stack marketplace with vendor dashboard, product management and order tracking | `Node.js` `Express` `EJS` `PostgreSQL` |
 | 📝 **[Quiz Tracker](https://github.com/Mitesh-Chandel/quiz-tracker)** | Quiz app that imports questions from CSV/Excel, with multiple quiz modes and progress tracking | `JavaScript` `HTML` `CSS` |

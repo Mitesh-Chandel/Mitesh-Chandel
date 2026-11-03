@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
   <!-- Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,10,0&height=280&section=header&text=Mitesh%20Chandel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20to%20Opportunities" alt="Header" width="100%" />
@@ -112,12 +112,17 @@
 <div align="center">
 
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitesh-Chandel&theme=github_dark" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Mitesh-Chandel&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=00D4FF&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mitesh-Chandel&theme=github_dark" alt="Top Languages" />
 
   <br>
 
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mitesh-Chandel&theme=github_dark" alt="Top Languages" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Mitesh-Chandel&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=00D4FF&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mitesh-Chandel&theme=github_dark" alt="Repos per Language" />
+
+  <br><br>
+
+  <!-- Contribution graph: very reliable fallback that doesn't depend on the streak service -->
+ 
 
 </div>
 
@@ -125,4 +130,6 @@
 
 ## 📈 Recent Activity
 
-- 🧩 Solving problems on LeetCode and
+- 🧩 Solving problems on LeetCode and strengthening Data Structures & Algorithms
+- 🛠️ Building and improving full-stack projects
+- 📚 Learning something new every day
